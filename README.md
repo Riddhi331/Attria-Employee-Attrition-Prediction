@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 ATTRIA — Employee Attrition Prediction System
 
 > An AI-powered Employee Attrition Prediction and HR Analytics System that predicts whether an employee is likely to stay with or leave an organization.
@@ -182,3 +183,6 @@ ATTRIA/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+=======
+# Attria-Employee-Attrition-Prediction
+>>>>>>> 076d41fc10d4cad59a83216c3f733674d7624881
